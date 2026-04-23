@@ -16,9 +16,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        jcenter()
     }
 }
 
-rootProject.name = "Academic Planner"
+rootProject.name = "Study planner"
 include(":app")
- 
