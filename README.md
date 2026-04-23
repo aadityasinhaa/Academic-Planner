@@ -40,4 +40,4 @@ The main interface of the app includes:
  🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/phikshitij/Study-Planner.git
+   git clone https://github.com/aadityasinhaa/Academic-Planner.git
